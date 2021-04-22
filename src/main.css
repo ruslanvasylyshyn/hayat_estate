@@ -97,7 +97,7 @@ body {
 .social__list {
   display: flex;
   list-style-type: none;
-  margin: 0;
+  justify-content: center;
 }
 
 .social__item {
